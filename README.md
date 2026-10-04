@@ -627,11 +627,8 @@ Focus areas:
 
 Links:
 
-- GitHub: `<YOUR_GITHUB_URL>`
-- LinkedIn: `<YOUR_LINKEDIN_URL>`
-- Portfolio: `<YOUR_PORTFOLIO_URL>`
 
-## License
+- LinkedIn: `<www.linkedin.com/in/priyam-paul-024795262>`
 
-License information will be added based on the repository owner's preferred
-license.
+
+
